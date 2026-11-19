@@ -1,4 +1,3 @@
-# MySQL-DDL-Commands-Constraints
 # Employee Database Management – MySQL
 
 ## Project Overview
